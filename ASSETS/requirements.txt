@@ -1,0 +1,6 @@
+aiogram==3.7.0
+aiohttp
+
+
+
+adiciona requirements.txt para deploy no Render
